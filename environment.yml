@@ -1,0 +1,13 @@
+name: zscore_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython >=1.79
+  - matplotlib-base >=3.5.1
+  - seaborn >=0.11.2  
+  - scipy >=1.8.0
+  - viennarna >=2.5.1
+  - numpy
+
